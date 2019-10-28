@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Leanne Graham",
+      "name": "Leanne Smith",
       "username": "Bret",
       "email": "Sincere@april.biz",
       "address": {
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "name": "Clementine Bauch",
+      "name": "Clementine Smith",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "address": {
@@ -117,7 +117,7 @@
     },
     {
       "id": 6,
-      "name": "Mrs. Dennis Schulist",
+      "name": "Mrs. Dennis Smithson",
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
       "address": {
@@ -163,7 +163,7 @@
     },
     {
       "id": 8,
-      "name": "Nicholas Runolfsdottir V",
+      "name": "Nicholas Smithers V",
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
       "address": {
