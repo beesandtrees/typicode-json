@@ -7,7 +7,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 0,
+      "status": "Unassigned",
       "location": "OAK",
       "company": "JetsCo",
       "description": "Wheel fell off",
@@ -22,7 +22,7 @@
         "status": "Assigned",
         "personnel": "Jenn Kuo"
       },
-      "status": 1,
+      "status": "Assigned",
       "location": "LAX",
       "company": "PlaneCorp",
       "description": "Bathroom sink broken",
@@ -37,7 +37,7 @@
         "status": "Assigned",
         "personnel": "Sammy DeJoya"
       },
-      "status": 1,
+      "status": "Assigned",
       "location": "SFO",
       "company": "AirTrain",
       "description": "Smoke odor in cockpit",
@@ -52,7 +52,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 1,
+      "status": "Assigned",
       "location": "LAX",
       "company": "AirTrain",
       "description": "Engine is making noises",
@@ -67,7 +67,7 @@
         "status": "Read-Only",
         "personnel": null
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "Sabre",
       "company": "PlaneCorp",
       "description": "Landing gear damaged",
@@ -82,7 +82,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 0,
+      "status": "Unassigned",
       "location": "OAK",
       "company": "JetsCo",
       "description": "Wheel fell off",
@@ -97,7 +97,7 @@
         "status": "Assigned",
         "personnel": "Jenn Kuo"
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "LAX",
       "company": "PlaneCorp",
       "description": "Bathroom sink broken",
@@ -112,7 +112,7 @@
         "status": "Assigned",
         "personnel": "Sammy DeJoya"
       },
-      "status": 1,
+      "status": "Assigned",
       "location": "SFO",
       "company": "AirTrain",
       "description": "Smoke odor in cockpit",
@@ -127,7 +127,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "LAX",
       "company": "AirTrain",
       "description": "Engine is making noises",
@@ -142,7 +142,7 @@
         "status": "Read-Only",
         "personnel": null
       },
-      "status": 1,
+      "status": "Assigned",
       "location": "Sabre",
       "company": "PlaneCorp",
       "description": "Landing gear damaged",
@@ -157,7 +157,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 0,
+      "status": "Unassigned",
       "location": "OAK",
       "company": "JetsCo",
       "description": "Wheel fell off",
@@ -172,7 +172,7 @@
         "status": "Assigned",
         "personnel": "Jenn Kuo"
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "LAX",
       "company": "PlaneCorp",
       "description": "Bathroom sink broken",
@@ -187,7 +187,7 @@
         "status": "Assigned",
         "personnel": "Sammy DeJoya"
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "SFO",
       "company": "AirTrain",
       "description": "Smoke odor in cockpit",
@@ -202,7 +202,7 @@
         "status": "Unassigned",
         "personnel": null
       },
-      "status": 1,
+      "status": "Unassigned",
       "location": "LAX",
       "company": "AirTrain",
       "description": "Engine is making noises",
@@ -217,7 +217,7 @@
         "status": "Read-Only",
         "personnel": null
       },
-      "status": 1,
+      "status": "In Progress",
       "location": "Sabre",
       "company": "PlaneCorp",
       "description": "Landing gear damaged",
