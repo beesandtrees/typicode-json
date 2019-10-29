@@ -77,7 +77,7 @@
     },
     {
       "id": "6",
-      "tail_no": "N100AA",
+      "tail_no": "N100AD",
       "assignment": {
         "status": "Unassigned",
         "personnel": null
@@ -92,7 +92,7 @@
     },
     {
       "id": "7",
-      "tail_no": "N101AB",
+      "tail_no": "N111AB",
       "assignment": {
         "status": "Assigned",
         "personnel": "Jenn Kuo"
@@ -107,7 +107,7 @@
     },
     {
       "id": "8",
-      "tail_no": "N105AC",
+      "tail_no": "N109AC",
       "assignment": {
         "status": "Assigned",
         "personnel": "Sammy DeJoya"
@@ -122,7 +122,7 @@
     },
     {
       "id": "9",
-      "tail_no": "Q107AC",
+      "tail_no": "Q127AC",
       "assignment": {
         "status": "Unassigned",
         "personnel": null
@@ -137,7 +137,7 @@
     },
     {
       "id": "10",
-      "tail_no": "N217AX",
+      "tail_no": "N217BX",
       "assignment": {
         "status": "Read-Only",
         "personnel": null
@@ -152,7 +152,7 @@
     },
     {
       "id": "11",
-      "tail_no": "N100AA",
+      "tail_no": "N122AA",
       "assignment": {
         "status": "Unassigned",
         "personnel": null
@@ -167,7 +167,7 @@
     },
     {
       "id": "12",
-      "tail_no": "N101AB",
+      "tail_no": "N100AB",
       "assignment": {
         "status": "Assigned",
         "personnel": "Jenn Kuo"
@@ -182,7 +182,7 @@
     },
     {
       "id": "13",
-      "tail_no": "N105AC",
+      "tail_no": "N100AQ",
       "assignment": {
         "status": "Assigned",
         "personnel": "Sammy DeJoya"
@@ -197,7 +197,7 @@
     },
     {
       "id": "14",
-      "tail_no": "Q107AC",
+      "tail_no": "Q107AQ",
       "assignment": {
         "status": "Unassigned",
         "personnel": null
@@ -212,7 +212,7 @@
     },
     {
       "id": "15",
-      "tail_no": "N217AX",
+      "tail_no": "N317AX",
       "assignment": {
         "status": "Read-Only",
         "personnel": null
