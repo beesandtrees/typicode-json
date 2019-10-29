@@ -250,5 +250,232 @@
         "bs": "target end-to-end models"
       }
     }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "tail_no": "N100AA",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 0,
+      "location": "OAK",
+      "company": "JetsCo",
+      "description": "Wheel fell off",
+      "watching": true,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "2",
+      "tail_no": "N101AB",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Jenn Kuo"
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "PlaneCorp",
+      "description": "Bathroom sink broken",
+      "watching": false,
+      "work_time": "1-2 Days",
+      "comments": []
+    },
+    {
+      "id": "3",
+      "tail_no": "N105AC",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Sammy DeJoya"
+      },
+      "status": 1,
+      "location": "SFO",
+      "company": "AirTrain",
+      "description": "Smoke odor in cockpit",
+      "watching": true,
+      "work_time": "5-7 Days",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "tail_no": "Q107AC",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "AirTrain",
+      "description": "Engine is making noises",
+      "watching": false,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "5",
+      "tail_no": "N217AX",
+      "assignment": {
+        "status": "Read-Only",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "Sabre",
+      "company": "PlaneCorp",
+      "description": "Landing gear damaged",
+      "watching": false,
+      "work_time": "1-2 Days",
+      "comments": []
+    },
+    {
+      "id": "6",
+      "tail_no": "N100AA",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 0,
+      "location": "OAK",
+      "company": "JetsCo",
+      "description": "Wheel fell off",
+      "watching": true,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "7",
+      "tail_no": "N101AB",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Jenn Kuo"
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "PlaneCorp",
+      "description": "Bathroom sink broken",
+      "watching": false,
+      "work_time": "1-2 Days",
+      "comments": []
+    },
+    {
+      "id": "8",
+      "tail_no": "N105AC",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Sammy DeJoya"
+      },
+      "status": 1,
+      "location": "SFO",
+      "company": "AirTrain",
+      "description": "Smoke odor in cockpit",
+      "watching": true,
+      "work_time": "5-7 Days",
+      "comments": []
+    },
+    {
+      "id": "9",
+      "tail_no": "Q107AC",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "AirTrain",
+      "description": "Engine is making noises",
+      "watching": false,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "10",
+      "tail_no": "N217AX",
+      "assignment": {
+        "status": "Read-Only",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "Sabre",
+      "company": "PlaneCorp",
+      "description": "Landing gear damaged",
+      "watching": false,
+      "work_time": "1-2 Days",
+      "comments": []
+    },
+    {
+      "id": "11",
+      "tail_no": "N100AA",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 0,
+      "location": "OAK",
+      "company": "JetsCo",
+      "description": "Wheel fell off",
+      "watching": true,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "12",
+      "tail_no": "N101AB",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Jenn Kuo"
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "PlaneCorp",
+      "description": "Bathroom sink broken",
+      "watching": false,
+      "work_time": "1-2 Days",
+      "comments": []
+    },
+    {
+      "id": "13",
+      "tail_no": "N105AC",
+      "assignment": {
+        "status": "Assigned",
+        "personnel": "Sammy DeJoya"
+      },
+      "status": 1,
+      "location": "SFO",
+      "company": "AirTrain",
+      "description": "Smoke odor in cockpit",
+      "watching": true,
+      "work_time": "5-7 Days",
+      "comments": []
+    },
+    {
+      "id": "14",
+      "tail_no": "Q107AC",
+      "assignment": {
+        "status": "Unassigned",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "LAX",
+      "company": "AirTrain",
+      "description": "Engine is making noises",
+      "watching": false,
+      "work_time": "3-4 Days",
+      "comments": []
+    },
+    {
+      "id": "15",
+      "tail_no": "N217AX",
+      "assignment": {
+        "status": "Read-Only",
+        "personnel": null
+      },
+      "status": 1,
+      "location": "Sabre",
+      "company": "PlaneCorp",
+      "description": "Landing gear damaged",
+      "watching": true,
+      "work_time": "3-4 Days",
+      "comments": []
+    }
   ]
 }
